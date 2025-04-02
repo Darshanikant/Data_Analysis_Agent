@@ -28,7 +28,7 @@ A Streamlit-based AI-powered data analysis tool using Google Gemini API and Lang
 Ensure you have Python installed (>=3.8) and the required libraries:
 
 ```bash
-pip install streamlit pandas langchain langchain_google_genai matplotlib seaborn
+pip install requirements.txt
 ```
 
 ### Clone the Repository
