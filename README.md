@@ -39,7 +39,7 @@ cd Data_Analysis_Agent
 
 ### Run the Application
 ```bash
-streamlit run Agent_App_DS.py
+streamlit run agent_app_DS.py
 ```
 
 ## Usage
